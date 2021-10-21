@@ -75,5 +75,59 @@ console.log(a ** 2 + " " + b ** 2);
 // 11-task
 
 
+var a = 8;
+var b = 16;
+
+console.log(a + b);
+console.log(a * b);
+console.log( );//modulli bolish
+
+// 12-task
+
+var a = 3;
+var b = 4;
+var c = ((a ** 2) + (b ** 2)) ** 0.5;
+
+console.log(c);
+console.log(a + b + c);
+
+// 13-task
+
+var r1 = 30;
+var r2 = 14;
+var s1 = r1 * 3.14;
+var s2 = r2 * 3.14;
+
+console.log(s1);
+console.log(s2);
+console.log(3.14 * (r1 - r2));
+
+
+// 14-task
+
+var l = 18;
+var p = 3.14;
+var r = l / (p * 2);
+
+console.log(r)
+console.log(p * (r ** 2));
+
+// 15-task
+
+var s = 24;
+var p = 3.14;
+var r = (s / p) ** 0.5;
+
+console.log(r);
+console.log(r*2);
+
+
+
+
+
+
+
+
+
 
 
