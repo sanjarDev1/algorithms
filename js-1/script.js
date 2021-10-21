@@ -121,7 +121,61 @@ var r = (s / p) ** 0.5;
 console.log(r);
 console.log(r*2);
 
+// 16-task
 
+var a = 15;
+var b = 20;
+
+console.log(b - a);
+
+// 17-task
+
+var a = 15;
+var b = 29;
+var c = 54;
+
+var ac = c - a;
+var bc = c - b;
+
+console.log(ac);
+console.log(bc);
+console.log(ac + bc);
+
+// 18-task
+
+
+var a = 20;
+var b = 38;
+var c = 25;
+
+var ac = c - a;
+var bc = b - c;
+
+console.log(ac * bc);
+
+// 19-task
+
+
+var x1 = 18;
+var y1 = 14;
+var x2 = 28;
+var y2 = 34;
+
+var S = (x2 - x1) * (y2 - y1);
+var P = ((x2 - x1) + (y2 - y1) * 2);
+
+console.log(S);
+console.log(P);
+
+
+// 20-task
+
+var x1 = 11;
+var y1 = 15;
+var x2 = 26;
+var y2 = 33;
+
+console.log((((x2-x1)**2)+((y2-y1)**2))**0.5);
 
 
 
