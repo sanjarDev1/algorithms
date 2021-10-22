@@ -177,6 +177,35 @@ var y2 = 33;
 
 console.log((((x2-x1)**2)+((y2-y1)**2))**0.5);
 
+//   21 - masala
+
+var a = 5;
+var b = 12;
+var c = 13;
+var p = (a + b + c) / 2;
+var s = (p * (p - a) * (p - b) * (p - c)) ** 0.5;
+console.log(p, s)
+
+//   22- masala
+
+var a = 12;
+var b = 18;
+var c = b;
+b = a;
+a = c;
+console.log( a , b )
+
+//   23 - masala
+
+var a = 10;
+var b = 15;
+var c = 20;
+var d = a;
+a = b;
+b = c;
+c = d;
+console.log(a, b, c)
+
 
 
 
